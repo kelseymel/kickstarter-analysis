@@ -7,10 +7,10 @@ The project is going to be an analyzation of Theater outcomes based on their lau
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 The trends in the Outcomes Based on Launch Date analysis were very similar in both of the successful and failed data. The successful theater outcomes were mostly between April and May and went decreased until they increased a bit in October. The lowest amount of successful theater outcomes was in December. As we can see on the graph below, the number of failed theater outcomes was almost the same between May and August. The highest amounnt of failed theater outcomes were launched in May and October. There were almost the same amount of the cancelled theater kickstarters each month. There were only 37 overall theater kickstarters that were cancelled compared to the 1369 total campaigns.
-Theater_Outcomes_vs_Launch.png
+
 ### Analysis of Outcomes Based on Goals
 There was a very wide range of goals in the total 1047 kickstarter campaigns for Plays, specifically. Almost 80% of the goals less than $1000 were successful and a lower, 24% failed with a goal of less than $1000. As the goals got higher, there were less successful outcomes, until the $35000 to $44999 range where about 67% were successful. This being said, there were only 9 total projects during those ranges, compared to the 186 that had a goal of less than $1000. The range of $1000 to $4999 had the most amount of total projects and after that point is where we start to see a more steady decrease in successful projects. It continues to decline slowly until the $20000 to $24999 goal and then there is a rapid decrease. So overall, as the goal amount gets larger, the amount of successful campaigns for plays goes up and failed goes down. See below for the graph showing how they related.
-Outcomes.vs.Goals.png
+![Outcomes.Vs.Goals](https://github.com/kelseymel/kickstarter-analysis/blob/main/Outcomes.vs.Goals.png)
 ### Challenges and Difficulties Encountered
 ## Results
 The most successful amount of theater campaigns were launched in May and June, therefore, it would be a great idea to start a campaign of this nature during one of those months. The worst month to launch a campaign for a theater project is in December. 
