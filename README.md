@@ -14,5 +14,5 @@ There was a very wide range of goals in the total 1047 kickstarter campaigns for
 ### Challenges and Difficulties Encountered
 ## Results
 The most successful amount of theater campaigns were launched in May and June, therefore, it would be a great idea to start a campaign of this nature during one of those months. The worst month to launch a campaign for a theater project is in December. 
-One conclusion we can draw from the kickstarter campaigns for plays based on goal amount is that 
+One conclusion we can draw from the kickstarter campaigns for plays based on goal amount is that for the most part, the lower goals have a higher chance of being successful.
 There are few limitations to this data set. Some of the campaigns for plays had high goals, but there were not many of those with high goals. This makes it look like there is a high amount of successful play campaigns with high goals when there were really only a few. I would suggest making another box and whisker plot of the amount of successful and failed play campaigns so that we can see the amounts and not just the percentages. Another suggestion would be to filter the theater outcomes by launch date by years and research the economy in those years. We would need to take into consideration if people/places are able to donate during the current economy. 
